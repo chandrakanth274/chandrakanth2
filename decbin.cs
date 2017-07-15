@@ -3,7 +3,7 @@ class DecimalToBinary
 {
     static void Main()
     {
-        //first number
+        //first num
 
         float a, c;
         Console.WriteLine("enter two Numbers:");
