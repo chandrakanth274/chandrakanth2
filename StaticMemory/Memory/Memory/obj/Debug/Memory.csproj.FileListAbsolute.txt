@@ -1,0 +1,6 @@
+C:\Users\chandrakanth.nettem\Documents\Visual Studio 2015\Projects\StaticMemory\Memory\Memory\bin\Debug\Memory.exe.config
+C:\Users\chandrakanth.nettem\Documents\Visual Studio 2015\Projects\StaticMemory\Memory\Memory\bin\Debug\Memory.exe
+C:\Users\chandrakanth.nettem\Documents\Visual Studio 2015\Projects\StaticMemory\Memory\Memory\bin\Debug\Memory.pdb
+C:\Users\chandrakanth.nettem\Documents\Visual Studio 2015\Projects\StaticMemory\Memory\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache
+C:\Users\chandrakanth.nettem\Documents\Visual Studio 2015\Projects\StaticMemory\Memory\Memory\obj\Debug\Memory.exe
+C:\Users\chandrakanth.nettem\Documents\Visual Studio 2015\Projects\StaticMemory\Memory\Memory\obj\Debug\Memory.pdb

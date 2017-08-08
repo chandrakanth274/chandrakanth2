@@ -1,0 +1,6 @@
+c:\users\chandrakanth.nettem\documents\visual studio 2015\Projects\StaticMemory\StaticMemory\bin\Debug\StaticMemory.exe.config
+c:\users\chandrakanth.nettem\documents\visual studio 2015\Projects\StaticMemory\StaticMemory\bin\Debug\StaticMemory.exe
+c:\users\chandrakanth.nettem\documents\visual studio 2015\Projects\StaticMemory\StaticMemory\bin\Debug\StaticMemory.pdb
+c:\users\chandrakanth.nettem\documents\visual studio 2015\Projects\StaticMemory\StaticMemory\obj\Debug\StaticMemory.csprojResolveAssemblyReference.cache
+c:\users\chandrakanth.nettem\documents\visual studio 2015\Projects\StaticMemory\StaticMemory\obj\Debug\StaticMemory.exe
+c:\users\chandrakanth.nettem\documents\visual studio 2015\Projects\StaticMemory\StaticMemory\obj\Debug\StaticMemory.pdb
