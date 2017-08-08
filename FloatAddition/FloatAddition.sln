@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatAddition", "FloatAddition\FloatAddition.csproj", "{A9FB62E7-CEF5-4066-8532-5C57BA538EB3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatAddition", "FloatAddition\FloatAddition.csproj", "{58B4311A-2B10-4627-BE17-5990129B04FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A9FB62E7-CEF5-4066-8532-5C57BA538EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A9FB62E7-CEF5-4066-8532-5C57BA538EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A9FB62E7-CEF5-4066-8532-5C57BA538EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A9FB62E7-CEF5-4066-8532-5C57BA538EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58B4311A-2B10-4627-BE17-5990129B04FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B4311A-2B10-4627-BE17-5990129B04FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B4311A-2B10-4627-BE17-5990129B04FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B4311A-2B10-4627-BE17-5990129B04FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
