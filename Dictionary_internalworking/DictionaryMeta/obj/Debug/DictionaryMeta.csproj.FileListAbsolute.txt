@@ -1,0 +1,5 @@
+C:\Users\chandrakanth.nettem\Desktop\dictionary-edu\src\DictionaryMeta\bin\Debug\DictionaryMeta.dll
+C:\Users\chandrakanth.nettem\Desktop\dictionary-edu\src\DictionaryMeta\bin\Debug\DictionaryMeta.pdb
+C:\Users\chandrakanth.nettem\Desktop\dictionary-edu\src\DictionaryMeta\obj\Debug\DictionaryMeta.csprojResolveAssemblyReference.cache
+C:\Users\chandrakanth.nettem\Desktop\dictionary-edu\src\DictionaryMeta\obj\Debug\DictionaryMeta.dll
+C:\Users\chandrakanth.nettem\Desktop\dictionary-edu\src\DictionaryMeta\obj\Debug\DictionaryMeta.pdb

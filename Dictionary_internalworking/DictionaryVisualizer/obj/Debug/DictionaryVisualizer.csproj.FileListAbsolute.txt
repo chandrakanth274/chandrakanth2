@@ -1,0 +1,15 @@
+C:\Users\chandrakanth.nettem\Desktop\dictionary-edu\src\DictionaryVisualizer\bin\Debug\DictionaryVisualizer.exe.config
+C:\Users\chandrakanth.nettem\Desktop\dictionary-edu\src\DictionaryVisualizer\bin\Debug\DictionaryVisualizer.exe
+C:\Users\chandrakanth.nettem\Desktop\dictionary-edu\src\DictionaryVisualizer\bin\Debug\DictionaryVisualizer.pdb
+C:\Users\chandrakanth.nettem\Desktop\dictionary-edu\src\DictionaryVisualizer\bin\Debug\DictionaryMeta.dll
+C:\Users\chandrakanth.nettem\Desktop\dictionary-edu\src\DictionaryVisualizer\bin\Debug\DictionaryMeta.pdb
+C:\Users\chandrakanth.nettem\Desktop\dictionary-edu\src\DictionaryVisualizer\obj\Debug\DictionaryVisualizer.csprojResolveAssemblyReference.cache
+C:\Users\chandrakanth.nettem\Desktop\dictionary-edu\src\DictionaryVisualizer\obj\Debug\MainWindow.baml
+C:\Users\chandrakanth.nettem\Desktop\dictionary-edu\src\DictionaryVisualizer\obj\Debug\MainWindow.g.cs
+C:\Users\chandrakanth.nettem\Desktop\dictionary-edu\src\DictionaryVisualizer\obj\Debug\App.g.cs
+C:\Users\chandrakanth.nettem\Desktop\dictionary-edu\src\DictionaryVisualizer\obj\Debug\DictionaryVisualizer_MarkupCompile.cache
+C:\Users\chandrakanth.nettem\Desktop\dictionary-edu\src\DictionaryVisualizer\obj\Debug\DictionaryVisualizer.g.resources
+C:\Users\chandrakanth.nettem\Desktop\dictionary-edu\src\DictionaryVisualizer\obj\Debug\DictionaryVisualizer.Properties.Resources.resources
+C:\Users\chandrakanth.nettem\Desktop\dictionary-edu\src\DictionaryVisualizer\obj\Debug\DictionaryVisualizer.csproj.GenerateResource.Cache
+C:\Users\chandrakanth.nettem\Desktop\dictionary-edu\src\DictionaryVisualizer\obj\Debug\DictionaryVisualizer.exe
+C:\Users\chandrakanth.nettem\Desktop\dictionary-edu\src\DictionaryVisualizer\obj\Debug\DictionaryVisualizer.pdb
